@@ -1,0 +1,847 @@
+{
+  "title": "Hotel Montaigne, Paris, France",
+  "url": "http://www.booking.com/hotel/fr/montaigne-paris1.html",
+  "name": "Hotel Montaigne",
+  "description": "L'Hôtel Montaigne est situé à 600 mètres des Champs-Élysées et à 650 mètres du Grand Palais, dans le 8ème arrondissement de Paris.",
+  "keywords": "Hotel Montaigne, Paris, France, D:8e arr., R:Île-de-France, Hôtel, Hôtels",
+  "photos": [
+    "http://r-ec.bstatic.com/images/hotel/840x460/282/28218203.jpg",
+    "http://r-ec.bstatic.com/images/hotel/840x460/441/44152387.jpg",
+    "http://r-ec.bstatic.com/images/hotel/840x460/501/50147285.jpg",
+    "http://q-ec.bstatic.com/images/hotel/840x460/441/44152244.jpg",
+    "http://r-ec.bstatic.com/images/hotel/840x460/282/28217101.jpg",
+    "http://r-ec.bstatic.com/images/hotel/840x460/282/28217868.jpg",
+    "http://q-ec.bstatic.com/images/hotel/840x460/189/18990623.jpg",
+    "http://q-ec.bstatic.com/images/hotel/840x460/282/28217940.jpg",
+    "http://q-ec.bstatic.com/images/hotel/840x460/282/28218523.jpg",
+    "http://q-ec.bstatic.com/images/hotel/840x460/189/18995027.jpg",
+    "http://r-ec.bstatic.com/images/hotel/840x460/131/13156963.jpg",
+    "http://q-ec.bstatic.com/images/hotel/840x460/282/28218156.jpg",
+    "http://q-ec.bstatic.com/images/hotel/840x460/131/13156762.jpg",
+    "http://q-ec.bstatic.com/images/hotel/840x460/282/28217276.jpg",
+    "http://q-ec.bstatic.com/images/hotel/840x460/282/28217533.jpg",
+    "http://q-ec.bstatic.com/images/hotel/840x460/282/28217451.jpg",
+    "http://r-ec.bstatic.com/images/hotel/840x460/282/28216979.jpg",
+    "http://r-ec.bstatic.com/images/hotel/840x460/282/28216840.jpg",
+    "http://r-ec.bstatic.com/images/hotel/840x460/282/28216733.jpg",
+    "http://r-ec.bstatic.com/images/hotel/840x460/282/28217810.jpg",
+    "http://r-ec.bstatic.com/images/hotel/840x460/282/28217606.jpg",
+    "http://q-ec.bstatic.com/data/landmark/840x460/267/26744.jpg",
+    "http://r-ec.bstatic.com/data/landmark/840x460/171/1710.jpg"
+  ],
+  "adress": "\r\n    6 Avenue Montaigne, 8e arr., 75008 Paris, France\r\n  ",
+  "hotelId": "461045",
+  "summary": "\r\n      \r\n        \r\n          Paris : séjournez au cœur de la ville\r\n          \r\n            – \r\n            Voir la carte\r\n          \r\n        \r\n      \r\n    \r\n    L'Hôtel Montaigne est situé à 600 mètres des Champs-Élysées et à 650 mètres du Grand Palais, dans le 8ème arrondissement de Paris. Cet établissement de caractère dispose de la climatisation et d'une connexion Wi-Fi gratuite.\r\n    Ses chambres sont toutes dotées d'une station d'accueil pour iPod, d'une télévision par satellite à écran plat, d'un minibar ainsi que d'une salle de bains privative pourvue de peignoirs et de chaussons.\r\n    Le restaurant de l'hôtel vous préparera une cuisine française traditionnelle. Le petit-déjeuner vous sera en outre servi tous les matins. Vous dégusterez par ailleurs des boissons au bar, qui s'ouvre sur une terrasse.\r\n    Un parking public se trouve à 100 mètres de l'établissement. La station de métro Alma-Marceau est implantée à 300 mètres. Enfin, l'Hôtel Montaigne se situe à 15 minutes de marche de la tour Eiffel et à 1,5 km de l'Arc de triomphe.\r\n    \r\n      \r\n      Ce quartier (8e arr.) est un choix idéal pour les voyageurs qui s'intéressent à ces thèmes : Shopping, Romantique et Nourriture.\r\n      \r\n    \r\n  ",
+  "equipments": [
+    {
+      "sectionLabel": "Salle de bains",
+      "equipments": [
+        "\r\n        chaussons\r\n      ",
+        "\r\n        baignoire ou douche\r\n      ",
+        "\r\n        salle de bains\r\n      ",
+        "\r\n        sèche-cheveux\r\n      ",
+        "\r\n        peignoir\r\n      ",
+        "\r\n        toilettes\r\n      ",
+        "\r\n        articles de toilette gratuits\r\n      "
+      ]
+    },
+    {
+      "sectionLabel": "Chambre",
+      "equipments": [
+        "\r\n        réveil\r\n      "
+      ]
+    },
+    {
+      "sectionLabel": "En extérieur",
+      "equipments": [
+        "\r\n        terrasse\r\n      "
+      ]
+    },
+    {
+      "sectionLabel": "Animaux domestiques",
+      "equipments": [
+        "\r\n        Les animaux de compagnie ne sont pas admis au sein de l'établissement. \r\n      "
+      ]
+    },
+    {
+      "sectionLabel": "Coin salon",
+      "equipments": [
+        "\r\n        bureau\r\n      "
+      ]
+    },
+    {
+      "sectionLabel": "High-tech",
+      "equipments": [
+        "\r\n        chaînes satellite\r\n      ",
+        "\r\n        station d'accueil pour iPod\r\n      ",
+        "\r\n        télévision à écran plat\r\n      ",
+        "\r\n        chaînes à la carte\r\n      ",
+        "\r\n        téléphone\r\n      ",
+        "\r\n        radio\r\n      "
+      ]
+    },
+    {
+      "sectionLabel": "Restauration",
+      "equipments": [
+        "\r\n        restaurant\r\n      ",
+        "\r\n        bar\r\n      ",
+        "\r\n        petit-déjeuner en chambre\r\n      ",
+        "\r\n        restaurant (à la carte)\r\n      ",
+        "\r\n        minibar\r\n      "
+      ]
+    },
+    {
+      "sectionLabel": "Internet",
+      "equipments": [
+        "\r\n        \r\n          \r\n            Gratuit !\r\n            Une connexion Wi-Fi est disponible dans tout l'établissement gratuitement.\r\n           \r\n        \r\n      "
+      ]
+    },
+    {
+      "sectionLabel": "Parking",
+      "equipments": [
+        "\r\n        Un parking public est disponible à proximité\r\n          (sans réservation préalable) et un supplément est susceptible d'être facturé.\r\n        "
+      ]
+    },
+    {
+      "sectionLabel": "Services",
+      "equipments": [
+        "\r\n          service d'étage\r\n        ",
+        "\r\n          service de navette (en supplément)\r\n        ",
+        "\r\n          navette aéroport (en supplément)\r\n        ",
+        "\r\n          réception ouverte 24h/24\r\n        ",
+        "\r\n          billetterie\r\n        ",
+        "\r\n          bagagerie\r\n        ",
+        "\r\n          service de concierge\r\n        ",
+        "\r\n          garde d'enfants\r\n        ",
+        "\r\n          blanchisserie\r\n        ",
+        "\r\n          nettoyage à sec\r\n        ",
+        "\r\n          service de repassage\r\n        ",
+        "\r\n          fax/photocopies\r\n        ",
+        "\r\n          service de réveil\r\n        "
+      ]
+    },
+    {
+      "sectionLabel": "Général",
+      "equipments": [
+        "\r\n          journaux\r\n        ",
+        "\r\n          coffre-fort\r\n        ",
+        "\r\n          chambres non-fumeurs\r\n        ",
+        "\r\n          accessible aux personnes à mobilité réduite\r\n        ",
+        "\r\n          ascenseur\r\n        ",
+        "\r\n          chambres insonorisées\r\n        ",
+        "\r\n          chauffage\r\n        ",
+        "\r\n          établissement entièrement non-fumeurs\r\n        ",
+        "\r\n          climatisation\r\n        ",
+        "\r\n          coffre-fort pour ordinateur portable\r\n        ",
+        "\r\n          moquette\r\n        ",
+        "\r\n          coffre-fort\r\n        ",
+        "\r\n          insonorisation\r\n        "
+      ]
+    },
+    {
+      "sectionLabel": "Langues parlées ",
+      "equipments": [
+        "russe",
+        "portugais",
+        "français",
+        "espagnol",
+        "anglais",
+        "arabe"
+      ]
+    }
+  ],
+  "rooms": [
+    {
+      "equipments": [],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "id": "46104501",
+      "type": "\r\n      \r\n      Chambre Double Classique\r\n    ",
+      "equipments": [
+        {
+          "id": "bicon-roomsize",
+          "label": "21 m²"
+        }
+      ],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "284.00"
+        },
+        {
+          "nb": "2",
+          "price": "568.00"
+        },
+        {
+          "nb": "3",
+          "price": "852.00"
+        },
+        {
+          "nb": "4",
+          "price": "1136.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nNon remboursable\r\n",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      Attention : en cas d'annulation, de modification ou de non-présentation, l'établissement prélève le montant total de la réservation.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "299.00"
+        },
+        {
+          "nb": "2",
+          "price": "598.00"
+        },
+        {
+          "nb": "3",
+          "price": "897.00"
+        },
+        {
+          "nb": "4",
+          "price": "1196.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nAnnulation GRATUITE avant le 13 déc 2015\r\n\r\n•PAYEZ PLUS TARD\r\n",
+        "•",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      En cas d'annulation ou de modification jusqu'à 2 jours avant la date d'arrivée, l'établissement ne prélève pas de frais.\r\n    ",
+        "\r\n      En cas d'annulation ou de modification tardive ou de non-présentation, l'établissement exige 100 % du montant de la première nuit.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "id": "46104505",
+      "type": "\r\n\r\nChambre Double Classique - Vue sur Ville\r\n",
+      "equipments": [
+        {
+          "id": "bicon-roomsize",
+          "label": "21 m²"
+        }
+      ],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "360.00"
+        },
+        {
+          "nb": "2",
+          "price": "720.00"
+        },
+        {
+          "nb": "3",
+          "price": "1080.00"
+        },
+        {
+          "nb": "4",
+          "price": "1440.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nNon remboursable\r\n",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      Attention : en cas d'annulation, de modification ou de non-présentation, l'établissement prélève le montant total de la réservation.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "379.00"
+        },
+        {
+          "nb": "2",
+          "price": "758.00"
+        },
+        {
+          "nb": "3",
+          "price": "1137.00"
+        },
+        {
+          "nb": "4",
+          "price": "1516.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nAnnulation GRATUITE avant le 13 déc 2015\r\n\r\n•PAYEZ PLUS TARD\r\n",
+        "•",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      En cas d'annulation ou de modification jusqu'à 2 jours avant la date d'arrivée, l'établissement ne prélève pas de frais.\r\n    ",
+        "\r\n      En cas d'annulation ou de modification tardive ou de non-présentation, l'établissement exige 100 % du montant de la première nuit.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "id": "46104509",
+      "type": "\r\n\r\nChambre Double Classique avec Balcon\r\n",
+      "equipments": [
+        {
+          "id": "bicon-roomsize",
+          "label": "21 m²"
+        }
+      ],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "379.00"
+        },
+        {
+          "nb": "2",
+          "price": "758.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nNon remboursable\r\n",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      Attention : en cas d'annulation, de modification ou de non-présentation, l'établissement prélève le montant total de la réservation.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "399.00"
+        },
+        {
+          "nb": "2",
+          "price": "798.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nAnnulation GRATUITE avant le 13 déc 2015\r\n\r\n•PAYEZ PLUS TARD\r\n",
+        "•",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      En cas d'annulation ou de modification jusqu'à 2 jours avant la date d'arrivée, l'établissement ne prélève pas de frais.\r\n    ",
+        "\r\n      En cas d'annulation ou de modification tardive ou de non-présentation, l'établissement exige 100 % du montant de la première nuit.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "id": "46104502",
+      "type": "\r\n\r\nChambre Double de Luxe\r\n",
+      "equipments": [
+        {
+          "id": "bicon-roomsize",
+          "label": "24 m²"
+        }
+      ],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "408.00"
+        },
+        {
+          "nb": "2",
+          "price": "816.00"
+        },
+        {
+          "nb": "3",
+          "price": "1224.00"
+        },
+        {
+          "nb": "4",
+          "price": "1632.00"
+        },
+        {
+          "nb": "5",
+          "price": "2040.00"
+        },
+        {
+          "nb": "6",
+          "price": "2448.00"
+        },
+        {
+          "nb": "7",
+          "price": "2856.00"
+        },
+        {
+          "nb": "8",
+          "price": "3264.00"
+        },
+        {
+          "nb": "9",
+          "price": "3672.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nNon remboursable\r\n",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      Attention : en cas d'annulation, de modification ou de non-présentation, l'établissement prélève le montant total de la réservation.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "429.00"
+        },
+        {
+          "nb": "2",
+          "price": "858.00"
+        },
+        {
+          "nb": "3",
+          "price": "1287.00"
+        },
+        {
+          "nb": "4",
+          "price": "1716.00"
+        },
+        {
+          "nb": "5",
+          "price": "2145.00"
+        },
+        {
+          "nb": "6",
+          "price": "2574.00"
+        },
+        {
+          "nb": "7",
+          "price": "3003.00"
+        },
+        {
+          "nb": "8",
+          "price": "3432.00"
+        },
+        {
+          "nb": "9",
+          "price": "3861.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nAnnulation GRATUITE avant le 13 déc 2015\r\n\r\n•PAYEZ PLUS TARD\r\n",
+        "•",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      En cas d'annulation ou de modification jusqu'à 2 jours avant la date d'arrivée, l'établissement ne prélève pas de frais.\r\n    ",
+        "\r\n      En cas d'annulation ou de modification tardive ou de non-présentation, l'établissement exige 100 % du montant de la première nuit.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "id": "46104510",
+      "type": "\r\n\r\nChambre Double de Luxe avec Balcon\r\n",
+      "equipments": [
+        {
+          "id": "bicon-roomsize",
+          "label": "24 m²"
+        }
+      ],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "427.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nNon remboursable\r\n",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      Attention : en cas d'annulation, de modification ou de non-présentation, l'établissement prélève le montant total de la réservation.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "449.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nAnnulation GRATUITE avant le 13 déc 2015\r\n\r\n•PAYEZ PLUS TARD\r\n",
+        "•",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      En cas d'annulation ou de modification jusqu'à 2 jours avant la date d'arrivée, l'établissement ne prélève pas de frais.\r\n    ",
+        "\r\n      En cas d'annulation ou de modification tardive ou de non-présentation, l'établissement exige 100 % du montant de la première nuit.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "id": "46104503",
+      "type": "\r\n\r\nSuite Junior\r\n",
+      "equipments": [
+        {
+          "id": "bicon-roomsize",
+          "label": "35 m²"
+        }
+      ],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "503.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nNon remboursable\r\n",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      Attention : en cas d'annulation, de modification ou de non-présentation, l'établissement prélève le montant total de la réservation.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "529.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nAnnulation GRATUITE avant le 13 déc 2015\r\n\r\n•PAYEZ PLUS TARD\r\n",
+        "•",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      En cas d'annulation ou de modification jusqu'à 2 jours avant la date d'arrivée, l'établissement ne prélève pas de frais.\r\n    ",
+        "\r\n      En cas d'annulation ou de modification tardive ou de non-présentation, l'établissement exige 100 % du montant de la première nuit.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "id": "46104511",
+      "type": "\r\n\r\nSuite Junior avec Balcon\r\n",
+      "equipments": [
+        {
+          "id": "bicon-roomsize",
+          "label": "35 m²"
+        }
+      ],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "550.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nNon remboursable\r\n",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      Attention : en cas d'annulation, de modification ou de non-présentation, l'établissement prélève le montant total de la réservation.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "579.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nAnnulation GRATUITE avant le 13 déc 2015\r\n\r\n•PAYEZ PLUS TARD\r\n",
+        "•",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      En cas d'annulation ou de modification jusqu'à 2 jours avant la date d'arrivée, l'établissement ne prélève pas de frais.\r\n    ",
+        "\r\n      En cas d'annulation ou de modification tardive ou de non-présentation, l'établissement exige 100 % du montant de la première nuit.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "id": "46104506",
+      "type": "\r\n\r\nSuite Junior avec Terrasse\r\n",
+      "equipments": [
+        {
+          "id": "bicon-roomsize",
+          "label": "35 m²"
+        }
+      ],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "788.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nNon remboursable\r\n",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      Attention : en cas d'annulation, de modification ou de non-présentation, l'établissement prélève le montant total de la réservation.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "829.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nAnnulation GRATUITE avant le 13 déc 2015\r\n\r\n•PAYEZ PLUS TARD\r\n",
+        "•",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      En cas d'annulation ou de modification jusqu'à 2 jours avant la date d'arrivée, l'établissement ne prélève pas de frais.\r\n    ",
+        "\r\n      En cas d'annulation ou de modification tardive ou de non-présentation, l'établissement exige 100 % du montant de la première nuit.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "id": "46104504",
+      "type": "\r\n\r\nSuite Supérieure\r\n",
+      "equipments": [
+        {
+          "id": "bicon-roomsize",
+          "label": "43 m²"
+        }
+      ],
+      "prices": [],
+      "policies": []
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "883.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nNon remboursable\r\n",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      Attention : en cas d'annulation, de modification ou de non-présentation, l'établissement prélève le montant total de la réservation.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "occupation": "2",
+      "prices": [
+        {
+          "nb": "0"
+        },
+        {
+          "nb": "1",
+          "price": "929.00"
+        }
+      ],
+      "policies": [
+        "\r\n",
+        "•",
+        "\r\nAnnulation GRATUITE avant le 13 déc 2015\r\n\r\n•PAYEZ PLUS TARD\r\n",
+        "•",
+        "\r\n\r\n\r\n•\r\nPetit-déjeuner € 29\r\n\r\n",
+        "\r\n\r\n•\r\nPetit-déjeuner € 29\r\n",
+        "•",
+        "\r\n      En cas d'annulation ou de modification jusqu'à 2 jours avant la date d'arrivée, l'établissement ne prélève pas de frais.\r\n    ",
+        "\r\n      En cas d'annulation ou de modification tardive ou de non-présentation, l'établissement exige 100 % du montant de la première nuit.\r\n    "
+      ]
+    },
+    {
+      "equipments": [],
+      "prices": [],
+      "policies": []
+    }
+  ]
+}
