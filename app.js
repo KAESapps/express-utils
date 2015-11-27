@@ -7,21 +7,20 @@ var morgan       = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser   = require('body-parser');
 var session      = require('express-session');
-var ngAdminRest = require('express-utils/ng-admin/default')
-var mongoCrud = require('express-utils/mongo/crud')
-var mongoUsers = require('express-utils/mongo/users')
+var ngAdminDefault = require('./handlers/default')
+var ngAdminUsers = require('./handlers/users')
 var config = require('./config')[process.env.NODE_ENV || 'dev']
 
 module.exports = function (db) {
   var app = express();
   app.locals.title = "winwinks admin"
-  // add data helpers to collections (does not encapsulate them !)
-  var admins = mongoUsers(db.collection('admins'))
-  var guests = mongoUsers(db.collection('guests'))
-  var hoteliers = mongoUsers(db.collection('hoteliers'))
-  var hotels = mongoCrud(db.collection('hotels'))
-  var reservations = mongoCrud(db.collection('reservations'))
-  console.info('models loaded')
+  // models
+  var admins = db.collection('admins')
+  var guests = db.collection('guests')
+  var hoteliers = db.collection('hoteliers')
+  var hotels = db.collection('hotels')
+  var reservations = db.collection('reservations')
+  var contrats = db.collection('contrats')
 
   // common middlewares
   app.use(morgan('dev')); // log every request to the console
@@ -36,6 +35,7 @@ module.exports = function (db) {
   app.use(passport.session()); // persistent login sessions
   console.info('middlewares loaded')
 
+  app.get('/scrap', require('./scrap')(hotels))
   // html routes
   app.route('/login')
     .get(renderPage('login.hbs'))
@@ -46,15 +46,17 @@ module.exports = function (db) {
     }))
   app.get('/logout', require('express-utils/auth/logout'))
 
+
   // api routes
-  app.use(ensureAuthenticatedOrRedirect('/login'))
+  //app.use(ensureAuthenticatedOrRedirect('/login'))
   app.use(express.static('static'))
   app.use('/api', express.Router()
-    .use('/admins', ngAdminRest(admins))
-    .use('/guests', ngAdminRest(guests))
-    .use('/hotels', ngAdminRest(hotels))
-    .use('/hoteliers', ngAdminRest(hoteliers))
-    .use('/reservations', ngAdminRest(reservations))
+    .use('/admins', ngAdminUsers(admins))
+    .use('/guests', ngAdminUsers(guests))
+    .use('/hoteliers', ngAdminUsers(hoteliers))
+    .use('/hotels', ngAdminDefault(hotels))
+    .use('/reservations', ngAdminDefault(reservations))
+    .use('/contrats', ngAdminDefault(contrats))
   )
   console.info('routes loaded')
 
