@@ -10,7 +10,9 @@ var helpers = {
     var itemByPage =parseInt(query._perPage, 10)
     var sort = {}
     sort[query._sortField] = (query._sortDir === 'DESC' ? -1 : 1)
-    var match = {}
+    var match = query._filters ? JSON.parse(query._filters) : {}
+    console.log('filteers', match)
+    console.log('filters type', typeof match)
     return collection.find(match)
       .skip((page-1)*itemByPage)
       .limit(itemByPage)

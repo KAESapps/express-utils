@@ -18,6 +18,8 @@
     "mongodb": "2.0.49",
     "morgan": "~1.6.1",
     "ng-admin": "0.9.1",
+    "request-promise": "1.0.2",
+    "when": "3.7.5",
     "x-ray": "2.0.2"
   }
 }
